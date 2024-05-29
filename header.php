@@ -10,4 +10,5 @@
 </head>
 <body>
     <h1 id="main_title">CRUD APPLICATION IN PHP</h1>
+
     <div class="container">
